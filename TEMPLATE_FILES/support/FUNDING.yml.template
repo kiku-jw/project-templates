@@ -1,0 +1,34 @@
+# These are supported funding model platforms
+# Replace placeholders with your actual links
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+
+patreon: # Replace with a single Patreon username
+
+open_collective: # Replace with a single Open Collective username
+
+ko_fi: YOUR_KO_FI_USERNAME
+
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+
+liberapay: # Replace with a single Liberapay username
+
+issuehunt: # Replace with a single IssueHunt username
+
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+
+polar: # Replace with a single Polar username
+
+buy_me_a_coffee: YOUR_BUYMEACOFFEE_USERNAME
+
+thanks_dev: d/gh/YOUR_GITHUB_USERNAME
+
+custom: ['https://discord.gg/YOUR_DISCORD_INVITE']
+
+# Example with actual values (replace with your own):
+# ko_fi: kiku_jw
+# buy_me_a_coffee: kiku
+# thanks_dev: d/gh/kiku-jw
+# custom: ['https://discord.gg/4Kxs97JvsU']
