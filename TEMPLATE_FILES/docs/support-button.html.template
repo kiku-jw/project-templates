@@ -1,7 +1,6 @@
 <!-- Support Button HTML Template -->
 <!-- Copy this HTML section to your website/index.html before </body> tag -->
 <!-- Replace PROJECT_NAME with your actual project name -->
-<!-- Replace all URLs with your actual links -->
 
 <!-- Support Button -->
 <div class="support-container">
@@ -14,27 +13,27 @@
             <button class="support-close" id="supportClose" aria-label="Close">×</button>
         </div>
         <div class="support-menu-links">
-            <a href="https://buymeacoffee.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" class="support-link">
+            <a href="https://buymeacoffee.com/kiku" target="_blank" rel="noopener noreferrer" class="support-link">
                 <span>☕</span> Buy Me a Coffee
             </a>
-            <a href="https://thanks.dev/d/gh/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener noreferrer" class="support-link">
+            <a href="https://thanks.dev/d/gh/kiku-jw" target="_blank" rel="noopener noreferrer" class="support-link">
                 <span>🙏</span> Thanks.dev
             </a>
-            <a href="https://ko-fi.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" class="support-link">
+            <a href="https://ko-fi.com/kiku_jw" target="_blank" rel="noopener noreferrer" class="support-link">
                 <span>💚</span> Ko-fi
             </a>
         </div>
         <div class="support-menu-social">
-            <a href="https://discord.gg/YOUR_INVITE" target="_blank" rel="noopener noreferrer" class="support-social" title="Discord">
+            <a href="https://discord.gg/4Kxs97JvsU" target="_blank" rel="noopener noreferrer" class="support-social" title="Discord">
                 💬
             </a>
-            <a href="https://t.me/YOUR_CHANNEL" target="_blank" rel="noopener noreferrer" class="support-social" title="Telegram">
+            <a href="https://t.me/kiku_blog" target="_blank" rel="noopener noreferrer" class="support-social" title="Telegram">
                 📰
             </a>
-            <a href="https://www.linkedin.com/in/YOUR_PROFILE/" target="_blank" rel="noopener noreferrer" class="support-social" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/kiku-jw/" target="_blank" rel="noopener noreferrer" class="support-social" title="LinkedIn">
                 💼
             </a>
-            <a href="https://about.me/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" class="support-social" title="About.me">
+            <a href="https://about.me/kiku_jw" target="_blank" rel="noopener noreferrer" class="support-social" title="About.me">
                 🌐
             </a>
         </div>

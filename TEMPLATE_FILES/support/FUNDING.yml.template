@@ -1,5 +1,5 @@
 # These are supported funding model platforms
-# Replace placeholders with your actual links
+# Configured for kiku-jw
 
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 
@@ -7,7 +7,7 @@ patreon: # Replace with a single Patreon username
 
 open_collective: # Replace with a single Open Collective username
 
-ko_fi: YOUR_KO_FI_USERNAME
+ko_fi: kiku_jw
 
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 
@@ -21,14 +21,8 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 
 polar: # Replace with a single Polar username
 
-buy_me_a_coffee: YOUR_BUYMEACOFFEE_USERNAME
+buy_me_a_coffee: kiku
 
-thanks_dev: d/gh/YOUR_GITHUB_USERNAME
+thanks_dev: d/gh/kiku-jw
 
-custom: ['https://discord.gg/YOUR_DISCORD_INVITE']
-
-# Example with actual values (replace with your own):
-# ko_fi: kiku_jw
-# buy_me_a_coffee: kiku
-# thanks_dev: d/gh/kiku-jw
-# custom: ['https://discord.gg/4Kxs97JvsU']
+custom: ['https://discord.gg/4Kxs97JvsU']
