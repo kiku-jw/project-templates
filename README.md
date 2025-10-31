@@ -54,7 +54,10 @@ git commit -m "Initial commit from project template"
 │   │   ├── good_first_issue.md        # Good first issue template
 │   │   └── config.yml                 # Issue template config
 │   └── FUNDING.yml                    # Funding platforms config
-└── TEMPLATE_FILES/                    # Ready-to-use files
+├── TEMPLATE_FILES/                    # Ready-to-use files
+│   ├── .github/                       # GitHub templates
+│   ├── support/                       # Support └── TEMPLATE_FILES/                    # Ready-to-use files social links templates
+│   └── docs/                          # Website templates
     └── .github/                       # GitHub templates
 ```
 
